@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "862904057844",
+    "firebase_url": "https://bai-brew.firebaseio.com",
+    "project_id": "bai-brew",
+    "storage_bucket": "bai-brew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862904057844:android:c61a3496a3032368b883a1",
+        "android_client_info": {
+          "package_name": "com.example.crewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862904057844-a7c6v2b1lt62uet6kckt8q97t426buf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP_mKSPLOh6LdJNmfkGiJ6RPSmCe4fE5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862904057844-a7c6v2b1lt62uet6kckt8q97t426buf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862904057844-32an60uuvgcjnfcpabh1lg0jjkh7j7ks.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crewapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862904057844:android:611df4989f0770d5b883a1",
+        "android_client_info": {
+          "package_name": "com.example.ninjabrewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862904057844-a7c6v2b1lt62uet6kckt8q97t426buf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP_mKSPLOh6LdJNmfkGiJ6RPSmCe4fE5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862904057844-a7c6v2b1lt62uet6kckt8q97t426buf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "862904057844-32an60uuvgcjnfcpabh1lg0jjkh7j7ks.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crewapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
